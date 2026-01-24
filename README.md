@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sithum Abhimana</h1>
-- 🌱 I’m currently learning **Computer Science major game development degree**
+- 🌱 I’m currently learning **Information Technology major AI degree**
 
 - 📫 How to reach me **abhimanasithum@gmail.com**
 
